@@ -18,7 +18,7 @@ from django.contrib import admin
 from django.urls import path
 #from task2.views import functemplate
 from django.views.generic import TemplateView
-from task3.views import home_page, game_page, cart_page
+from task4.views import home_page, game_page, cart_page
 
 #urlpatterns = [
  #   path('admin/', admin.site.urls),
