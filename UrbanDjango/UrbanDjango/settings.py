@@ -58,6 +58,7 @@ TEMPLATES = [
         'DIRS': [BASE_DIR / 'templates/second_task'],
         'DIRS': [BASE_DIR / 'templates/third_task'],
         'DIRS': [BASE_DIR / 'templates/fourth_task'],
+        'DIRS': [BASE_DIR / 'templates/fifth_task'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
